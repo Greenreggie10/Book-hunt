@@ -32,31 +32,23 @@ See the application functioning
 
 ## !-- Tools Usage  -->        
 
--HTML.
+-  HTML.
 
+-  CSS.
 
--CSS.
+-  JAVASCRIPT.
 
+-  BOOTSTRAP.
 
--JAVASCRIPT.
+-  REACT.JS.
 
+-  GRAPHQL.
 
--BOOTSTRAP.
+-  APOLLO SERVER.
 
+-  MONGODB DATABASE.
 
--REACT.JS.
-
-
--GRAPHQL.
-
-
--APOLLO SERVER.
-
-
--MONGODB DATABASE.
-
-
--NODE.JS.
+-  NODE.JS.
 
 ## !-- author & contributors -->
 
