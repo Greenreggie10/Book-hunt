@@ -31,22 +31,32 @@ See the application functioning
 
 
 ## !-- Tools Usage  -->        
-The app was built and developed using Visual Studio Code (VS Code).
+
+-HTML.
 
 
-Node.js was used to code the app/db logic.
+-CSS.
 
 
-Express.js was used to create and connect to a server.
+-JAVASCRIPT.
 
 
-Webpack was used to bundle and create the PWA.
+-BOOTSTRAP.
 
 
-Heroku hosts the deployed website and utilizes JawsDB to host the remote server/database.
+-REACT.JS.
 
 
-Github hosts the repository and published the website.
+-GRAPHQL.
+
+
+-APOLLO SERVER.
+
+
+-MONGODB DATABASE.
+
+
+-NODE.JS.
 
 ## !-- author & contributors -->
 
