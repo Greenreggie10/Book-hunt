@@ -18,7 +18,7 @@ The app allows users to search the Google Books API search engine for book data.
 
 ## !-- stillshot of site -->
 
-![alt text]()
+![alt text](./assets/Screenshot%20(bookSearch).png)
 
 
 ## !-- Installation --> 
@@ -51,6 +51,7 @@ See the application functioning
 -  NODE.JS.
 
 ## !-- author & contributors -->
+
 
 REGINALD GREEN
 
